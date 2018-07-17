@@ -1,0 +1,14 @@
+{
+  "name": "animelist",
+  "version": "1.0.0",
+  "description": "Anime tracking application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ryan Hines",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.5"
+  }
+}
